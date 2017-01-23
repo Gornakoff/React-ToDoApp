@@ -1,1 +1,1 @@
-Boilerplate React App
+Simple ToDo React App
