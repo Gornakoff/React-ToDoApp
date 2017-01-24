@@ -9,7 +9,7 @@ let ToDo = React.createClass({
           this.props.onToggle(id);
         }}>
         <input type="checkbox" checked={completed} />
-        {id}. {text}
+        {text}
       </div>
     )
   }
