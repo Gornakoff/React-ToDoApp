@@ -15,5 +15,5 @@ let currentMoment = moment.unix(timestamp);
 console.log('Current moment: ', currentMoment);
 console.log('Current moment: ', currentMoment.format('MMM D, YYYY @ HH:mm'));
 
-// January 3rd, 2017 @ 12:13 AM
+// January 24rd, 2017 @ 9:31 PM
 console.log('Display date and time: ', currentMoment.format('MMMM Do, YYYY @ h:mm A'));
